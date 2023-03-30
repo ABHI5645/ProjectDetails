@@ -1,0 +1,5 @@
+.bg-img{
+    background-image: url('../../assests/images/bgImg.png');
+    background-size: cover;
+    height:100vh;
+}
